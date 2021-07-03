@@ -1,0 +1,20 @@
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\bin\Debug\Aula 22-08.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\bin\Debug\Aula 22-08.pdb
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\Aula_22_08.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\Aula 22-08.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\Aula 22-08.pdb
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\Aula_22_08.Form2.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula 22-08\obj\x86\Debug\Aula_22_08.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\Aula 22-08.exe
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\Aula 22-08.pdb
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\bin\Debug\Aula 22-08.exe
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\bin\Debug\Aula 22-08.pdb
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\Aula_22_08.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\Aula_22_08.Form2.resources
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\Aula_22_08.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Aula 22-08\Aula 22-08\Aula 22-08\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,31 @@
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\AS - Ajuda Serralheiro.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\AS - Ajuda Serralheiro.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\AS - Ajuda Serralheiro.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\Simple Styles.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\Cadastro.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\mainwindow.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\Orcamento.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\TelaPrincipal.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\App.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS - Ajuda Serralheiro_MarkupCompile.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS - Ajuda Serralheiro_MarkupCompile.lref
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\App.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\Cadastro.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\mainwindow.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\Orcamento.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\TelaPrincipal.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS - Ajuda Serralheiro.g.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS___Ajuda_Serralheiro.Properties.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS - Ajuda Serralheiro.csproj.GenerateResource.Cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS - Ajuda Serralheiro.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Release\AS - Ajuda Serralheiro.pdb

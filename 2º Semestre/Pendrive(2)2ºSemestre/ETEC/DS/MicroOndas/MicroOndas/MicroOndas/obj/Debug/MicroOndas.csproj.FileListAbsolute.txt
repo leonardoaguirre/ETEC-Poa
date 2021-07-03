@@ -1,0 +1,28 @@
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\bin\Debug\MicroOndas.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\bin\Debug\MicroOndas.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\obj\Debug\MicroOndas.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\obj\Debug\MicroOndas.Microondas.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\obj\Debug\MicroOndas.Properties.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\obj\Debug\MicroOndas.csproj.GenerateResource.Cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\obj\Debug\MicroOndas.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\MicroOndas\MicroOndas\obj\Debug\MicroOndas.pdb
+H:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\MicroOndas.exe
+H:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\MicroOndas.pdb
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\MicroOndas.exe
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\MicroOndas.pdb
+J:\Etec\C#\MicroOndas\MicroOndas\bin\Debug\MicroOndas.exe
+J:\Etec\C#\MicroOndas\MicroOndas\bin\Debug\MicroOndas.pdb
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\ResolveAssemblyReference.cache
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\MicroOndas.Microondas.resources
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\MicroOndas.Properties.Resources.resources
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\GenerateResource.read.1.tlog
+J:\Etec\C#\MicroOndas\MicroOndas\obj\Debug\GenerateResource.write.1.tlog
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\MicroOndas.pdb
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\ResolveAssemblyReference.cache
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\MicroOndas.Microondas.resources
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\MicroOndas.Properties.Resources.resources
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\GenerateResource.read.1.tlog
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\GenerateResource.write.1.tlog
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\bin\Debug\MicroOndas.exe
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\bin\Debug\MicroOndas.pdb
+J:\Etec\C#\MicroOndas\MicroOndas\MicroOndas\obj\Debug\MicroOndas.exe

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\bin\Debug\aula-3-1.exe
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\bin\Debug\aula-3-1.pdb
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\aula_3_8.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\aula_3_8.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\aula-3-1.exe
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\aula-3-1\aula-3-1\obj\x86\Debug\aula-3-1.pdb

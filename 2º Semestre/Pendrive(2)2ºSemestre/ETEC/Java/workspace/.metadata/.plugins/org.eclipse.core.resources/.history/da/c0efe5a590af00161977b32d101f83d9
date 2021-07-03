@@ -1,0 +1,9 @@
+package aula;
+
+public interface Imprimivel {
+	final char nlin = '\n';
+
+	public String toStrings();
+
+	public void toStringOut();
+}

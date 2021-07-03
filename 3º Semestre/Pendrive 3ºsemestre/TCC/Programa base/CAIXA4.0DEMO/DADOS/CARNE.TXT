@@ -1,0 +1,256 @@
+
+CLINICA POLAR
+
+0002-QWQWEQWE                           
+========================================
+Data da Compra .....:         29/09/2009
+Nr da Compra .......:         23123     
+Nr de Parcelas......:                 12
+Valor Total Compra R$           5.000,00
+========================================
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              01/12
+Vencimento Parcela .:         29/09/2009
+Valor da Parcela   R$             416,63
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              03/00
+Vencimento Parcela .:         29/09/2009
+Valor da Parcela   R$             216,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              02/12
+Vencimento Parcela .:         29/10/2009
+Valor da Parcela   R$             200,00
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              03/12
+Vencimento Parcela .:         28/11/2009
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              04/12
+Vencimento Parcela .:         28/12/2009
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              05/12
+Vencimento Parcela .:         27/01/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              06/12
+Vencimento Parcela .:         26/02/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              07/12
+Vencimento Parcela .:         28/03/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              08/12
+Vencimento Parcela .:         27/04/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              09/12
+Vencimento Parcela .:         27/05/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              10/12
+Vencimento Parcela .:         26/06/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              11/12
+Vencimento Parcela .:         26/07/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               
+
+
+
+========================================
+Forma de Pagamento .: Cart∆o Americam     
+Nr da Parcela ......:              12/12
+Vencimento Parcela .:         25/08/2010
+Valor da Parcela   R$             416,67
+----------------------------------------
+Data do Pagamento ..:      /     /      
+VALOR MULTA        R$                   
+VALOR JUROS        R$                   
+VALOR DESCONTO     R$                   
+VALOR P A G O      R$                   
+
+
+
+========================================
+             VISTO CAIXA               

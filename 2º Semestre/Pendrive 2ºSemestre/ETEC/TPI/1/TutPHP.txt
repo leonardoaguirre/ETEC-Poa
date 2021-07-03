@@ -1,0 +1,5 @@
+//$Vem antes de qualque variavel em php
+//"?" = "Se"
+//":" = Senão
+
+$maior = $a>$b ? $a :$b

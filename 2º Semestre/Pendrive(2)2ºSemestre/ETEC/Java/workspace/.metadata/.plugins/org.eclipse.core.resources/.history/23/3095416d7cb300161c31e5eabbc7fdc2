@@ -1,0 +1,17 @@
+package prova2511;
+
+public class ContaCorrente extends Conta{
+private int limiteCredito;
+public void setCredito(int credito1)
+{
+	limiteCredito=credito1;
+}
+public int getCredito()
+{
+	return limiteCredito;
+}
+public void main(String args[]){
+	ContaCorrente A = new ContaCorrente();
+	A.setCredito(500);
+}
+}

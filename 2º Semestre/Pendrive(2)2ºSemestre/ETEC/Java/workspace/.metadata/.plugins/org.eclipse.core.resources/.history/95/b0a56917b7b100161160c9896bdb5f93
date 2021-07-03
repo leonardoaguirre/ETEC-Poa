@@ -1,0 +1,6 @@
+package exercicio4;
+
+public class Complexo {
+private int a, b;
+private String i ="i";
+}

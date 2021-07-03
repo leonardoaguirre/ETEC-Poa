@@ -1,0 +1,5 @@
+package prova2511;
+
+public interface Rendimento {
+
+}

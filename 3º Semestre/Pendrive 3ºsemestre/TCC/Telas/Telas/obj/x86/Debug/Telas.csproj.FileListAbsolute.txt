@@ -1,0 +1,69 @@
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\Telas.CadastroCliente.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\Telas.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\bin\Debug\Telas.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\bin\Debug\Telas.pdb
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\Telas.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Telas\obj\x86\Debug\Telas.pdb
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.exe
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.pdb
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\bin\Debug\Telas.exe
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\bin\Debug\Telas.pdb
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.CadastroCliente.resources
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.Clientes.resources
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.Produtos.resources
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.CadastroProduto.resources
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.Vendas.resources
+C:\Documents and Settings\Aluno\Desktop\Telas\Telas\obj\x86\Debug\Telas.CadastroVenda.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.exe
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.pdb
+J:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\Telas.exe
+J:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\Telas.pdb
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.CadastroCliente.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.CadastroProduto.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.CadastroVenda.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Clientes.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.EsqueciSenha.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Produtos.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Properties.Resources.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Vendas.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.exe
+G:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.pdb
+J:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\Telas.exe.config
+J:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\MySql.Data.dll
+F:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\Telas.exe.config
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.exe
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.pdb
+F:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\Telas.exe
+F:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\Telas.pdb
+F:\ETEC\3º Semestre\TCC\Telas\Telas\bin\Debug\MySql.Data.dll
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.csprojResolveAssemblyReference.cache
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.CadastroCliente.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.CadastroProduto.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.CadastroVenda.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Clientes.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.EsqueciSenha.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Produtos.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Properties.Resources.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.Vendas.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.csproj.GenerateResource.Cache
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.AlterarDespesa.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.FinancasDespesas.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.FinancasFuncionario.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.InserirDespesa.resources
+J:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.InserirFinancasFuncionario.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.AlterarDespesa.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.AlterarFinancasFuncionario.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.FinancasDespesas.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.FinancasFuncionario.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.InserirDespesa.resources
+F:\ETEC\3º Semestre\TCC\Telas\Telas\obj\x86\Debug\Telas.InserirFinancasFuncionario.resources

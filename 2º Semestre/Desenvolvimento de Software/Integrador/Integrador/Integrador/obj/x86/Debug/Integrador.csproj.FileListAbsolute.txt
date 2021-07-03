@@ -1,0 +1,12 @@
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.Form2.resources
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.exe
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.pdb
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.FrmPrincipal.resources
+C:\Documents and Settings\Aluno\Desktop\Integrador\Integrador\Integrador\obj\x86\Debug\Integrador.frmAjuda.resources

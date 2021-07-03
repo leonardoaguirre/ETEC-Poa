@@ -1,0 +1,11 @@
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\bin\Debug\StaticReference.exe
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\bin\Debug\StaticReference.pdb
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\StaticReference.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\StaticReference.Form2.resources
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\StaticReference.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\StaticReference.exe
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\StaticReference.pdb
+C:\Documents and Settings\Aluno\Desktop\aula-9-11\StaticReference\StaticReference\obj\x86\Debug\StaticReference.Form3.resources

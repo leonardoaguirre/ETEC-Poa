@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F32639F-4936-4614-9BFB-90EA0BDA163E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HelpSerralheiro</RootNamespace>
+    <AssemblyName>HelpSerralheiro</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>commanager-icone.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.9\lib\net40\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alterar\AlterarAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarAgendamento.Designer.cs">
+      <DependentUpon>AlterarAgendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarCliente.Designer.cs">
+      <DependentUpon>AlterarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarDespesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarDespesa.Designer.cs">
+      <DependentUpon>AlterarDespesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarDespesaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarDespesaFuncionario.Designer.cs">
+      <DependentUpon>AlterarDespesaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarFornecedor.Designer.cs">
+      <DependentUpon>AlterarFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarFuncionario.Designer.cs">
+      <DependentUpon>AlterarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarOrcamento.Designer.cs">
+      <DependentUpon>AlterarOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarProduto.Designer.cs">
+      <DependentUpon>AlterarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarProdutoOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarProdutoOrcamento.Designer.cs">
+      <DependentUpon>AlterarProdutoOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarProdutoVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarProdutoVenda.Designer.cs">
+      <DependentUpon>AlterarProdutoVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarUsuario.Designer.cs">
+      <DependentUpon>AlterarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar\AlterarVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar\AlterarVenda.Designer.cs">
+      <DependentUpon>AlterarVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bd_commanagerDataSet.cs">
+      <DependentUpon>bd_commanagerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bd_commanagerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bd_commanagerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassInfo.cs" />
+    <Compile Include="Consultar\ConsultaAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaAgendamento.Designer.cs">
+      <DependentUpon>ConsultaAgendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaClientesVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaClientesVenda.Designer.cs">
+      <DependentUpon>ConsultaClientesVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaDespesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaDespesas.Designer.cs">
+      <DependentUpon>ConsultaDespesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFinancasFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFinancasFuncionario.Designer.cs">
+      <DependentUpon>ConsultaFinancasFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFinancasGeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFinancasGeral.Designer.cs">
+      <DependentUpon>ConsultaFinancasGeral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFinancasVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFinancasVenda.Designer.cs">
+      <DependentUpon>ConsultaFinancasVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFornecedor.Designer.cs">
+      <DependentUpon>ConsultaFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaFuncionario.Designer.cs">
+      <DependentUpon>ConsultaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaProdutos.Designer.cs">
+      <DependentUpon>ConsultaProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaProdutosOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaProdutosOrcamento.Designer.cs">
+      <DependentUpon>ConsultaProdutosOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaProdutosVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaProdutosVenda.Designer.cs">
+      <DependentUpon>ConsultaProdutosVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarClientes.Designer.cs">
+      <DependentUpon>ConsultarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarOrcamento.Designer.cs">
+      <DependentUpon>ConsultarOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultarUsuario.Designer.cs">
+      <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultar\ConsultaVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultar\ConsultaVenda.Designer.cs">
+      <DependentUpon>ConsultaVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EsqueceSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EsqueceSenha.Designer.cs">
+      <DependentUpon>EsqueceSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovaVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovaVenda.Designer.cs">
+      <DependentUpon>NovaVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoAgendamento.Designer.cs">
+      <DependentUpon>NovoAgendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoCliente.Designer.cs">
+      <DependentUpon>NovoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoDespesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoDespesa.Designer.cs">
+      <DependentUpon>NovoDespesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoDespesaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoDespesaFuncionario.Designer.cs">
+      <DependentUpon>NovoDespesaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoFornecedor.Designer.cs">
+      <DependentUpon>NovoFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoFuncionario.Designer.cs">
+      <DependentUpon>NovoFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoOrcamento.Designer.cs">
+      <DependentUpon>NovoOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inserir\NovoProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inserir\NovoProduto.Designer.cs">
+      <DependentUpon>NovoProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\RelatorioVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\RelatorioVendas.Designer.cs">
+      <DependentUpon>RelatorioVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="SubMenus\SubAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubAgenda.Designer.cs">
+      <DependentUpon>SubAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubCadastro.Designer.cs">
+      <DependentUpon>SubCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubClientes.Designer.cs">
+      <DependentUpon>SubClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubFinancas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubFinancas.Designer.cs">
+      <DependentUpon>SubFinancas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubFornecedores.Designer.cs">
+      <DependentUpon>SubFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubOrcamento.Designer.cs">
+      <DependentUpon>SubOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubProdutos.Designer.cs">
+      <DependentUpon>SubProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenus\SubVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenus\SubVendas.Designer.cs">
+      <DependentUpon>SubVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaSplash.Designer.cs">
+      <DependentUpon>TelaSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Alterar\AlterarAgendamento.resx">
+      <DependentUpon>AlterarAgendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarCliente.resx">
+      <DependentUpon>AlterarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarDespesa.resx">
+      <DependentUpon>AlterarDespesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarDespesaFuncionario.resx">
+      <DependentUpon>AlterarDespesaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarFornecedor.resx">
+      <DependentUpon>AlterarFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarFuncionario.resx">
+      <DependentUpon>AlterarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarOrcamento.resx">
+      <DependentUpon>AlterarOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarProduto.resx">
+      <DependentUpon>AlterarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarProdutoOrcamento.resx">
+      <DependentUpon>AlterarProdutoOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarProdutoVenda.resx">
+      <DependentUpon>AlterarProdutoVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarUsuario.resx">
+      <DependentUpon>AlterarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar\AlterarVenda.resx">
+      <DependentUpon>AlterarVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaAgendamento.resx">
+      <DependentUpon>ConsultaAgendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaClientesVenda.resx">
+      <DependentUpon>ConsultaClientesVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaDespesas.resx">
+      <DependentUpon>ConsultaDespesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaFinancasFuncionario.resx">
+      <DependentUpon>ConsultaFinancasFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaFinancasGeral.resx">
+      <DependentUpon>ConsultaFinancasGeral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaFinancasVenda.resx">
+      <DependentUpon>ConsultaFinancasVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaFornecedor.resx">
+      <DependentUpon>ConsultaFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaFuncionario.resx">
+      <DependentUpon>ConsultaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaProdutos.resx">
+      <DependentUpon>ConsultaProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaProdutosOrcamento.resx">
+      <DependentUpon>ConsultaProdutosOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaProdutosVenda.resx">
+      <DependentUpon>ConsultaProdutosVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarClientes.resx">
+      <DependentUpon>ConsultarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarOrcamento.resx">
+      <DependentUpon>ConsultarOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultarUsuario.resx">
+      <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultar\ConsultaVenda.resx">
+      <DependentUpon>ConsultaVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EsqueceSenha.resx">
+      <DependentUpon>EsqueceSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovaVenda.resx">
+      <DependentUpon>NovaVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoAgendamento.resx">
+      <DependentUpon>NovoAgendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoCliente.resx">
+      <DependentUpon>NovoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoDespesa.resx">
+      <DependentUpon>NovoDespesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoDespesaFuncionario.resx">
+      <DependentUpon>NovoDespesaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoFornecedor.resx">
+      <DependentUpon>NovoFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoFuncionario.resx">
+      <DependentUpon>NovoFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoOrcamento.resx">
+      <DependentUpon>NovoOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inserir\NovoProduto.resx">
+      <DependentUpon>NovoProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\RelatorioVendas.rdlc" />
+    <EmbeddedResource Include="Relatorios\RelatorioVendas.resx">
+      <DependentUpon>RelatorioVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubAgenda.resx">
+      <DependentUpon>SubAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubCadastro.resx">
+      <DependentUpon>SubCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubClientes.resx">
+      <DependentUpon>SubClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubFinancas.resx">
+      <DependentUpon>SubFinancas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubFornecedores.resx">
+      <DependentUpon>SubFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubOrcamento.resx">
+      <DependentUpon>SubOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubProdutos.resx">
+      <DependentUpon>SubProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenus\SubVendas.resx">
+      <DependentUpon>SubVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaSplash.resx">
+      <DependentUpon>TelaSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bd_commanagerDataSet.xsc">
+      <DependentUpon>bd_commanagerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bd_commanagerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bd_commanagerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bd_commanagerDataSet.xss">
+      <DependentUpon>bd_commanagerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blur-wallpaper-HD-Download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commaneger2escuro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commaneger2escuro4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commanager-icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_shopping-cart_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_user_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ionicons_2-0-1_ios-cart-outline_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_calculator_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icomoon-free_2014-12-23_truck_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\material-icons_3-0-1_attach-money_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_calendar_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_user-plus_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_handshake-o_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_plus_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_search_106_0_063f65_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font-awesome_4-7-0_lock_106_0_34495e_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="commanager-icone.ico" />
+    <Content Include="Commanagericone.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\salvar.png" />
+    <None Include="Resources\enviar.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\adicionar.png" />
+    <None Include="Resources\voltar.png" />
+    <None Include="Resources\trash.png" />
+    <None Include="Resources\alterar.png" />
+    <None Include="Resources\pesquisar.png" />
+    <None Include="Resources\fechar.png" />
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

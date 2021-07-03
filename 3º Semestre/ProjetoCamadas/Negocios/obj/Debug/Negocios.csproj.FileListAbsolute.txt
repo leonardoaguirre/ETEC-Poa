@@ -1,0 +1,27 @@
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\bin\Debug\Negocios.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\bin\Debug\Negocios.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\bin\Debug\AcessoBancoDados.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\bin\Debug\ObjetoTransferencia.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\bin\Debug\AcessoBancoDados.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\bin\Debug\ObjetoTransferencia.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\obj\Debug\ResolveAssemblyReference.cache
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\obj\Debug\Negocios.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\bin\Debug\Negocios.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\obj\Debug\Negocios.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Negocios\obj\Debug\Negocios.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\bin\Debug\Negocios.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\bin\Debug\Negocios.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\obj\Debug\Negocios.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Negocios\obj\Debug\Negocios.pdb

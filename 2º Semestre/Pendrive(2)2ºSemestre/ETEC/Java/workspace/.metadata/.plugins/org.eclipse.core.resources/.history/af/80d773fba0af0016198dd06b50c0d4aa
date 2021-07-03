@@ -1,0 +1,46 @@
+package exercicio1;
+
+public class Baskara {
+	private int A, B, C, X;
+	public void setA(int A1)
+	{
+		A=A1;
+	}
+	public int getA()
+	{
+		return A;
+	}
+	public void setB(int B1)
+	{
+		B=B1;
+	}
+	public int getB()
+	{
+		return B;
+	}
+	public void setC(int C1)
+	{
+		C=C1;
+	}
+	public int getC()
+	{
+		return C;
+	}
+	public void setX(int X1)
+	{
+		X=X1;
+	}
+	public int getX()
+	{
+		return X;
+	}
+}
+	public class insere{
+		Baskara a = new Baskara(1,2,3,4);
+		
+	}
+public class insereVazio(int){
+		
+	}
+}
+

@@ -1,0 +1,57 @@
+package exercicio1;
+
+public class Baskara<inserir> {
+	private int A, B, C, X;
+	public Baskara(int i, int j, int k, int l) {
+		// TODO Auto-generated constructor stub
+	}
+	public void setA(int A1)
+	{
+		A=A1;
+	}
+	public int getA()
+	{
+		return A;
+	}
+	public void setB(int B1)
+	{
+		B=B1;
+	}
+	public int getB()
+	{
+		return B;
+	}
+	public void setC(int C1)
+	{
+		C=C1;
+	}
+	public int getC()
+	{
+		return C;
+	}
+	public void setX(int X1)
+	{
+		X=X1;
+	}
+	public int getX()
+	{
+		return X;
+	}
+	public void inserir(int a, int b, int c, int x) {
+		A = a;
+		B = b;
+		C = c;
+		X = x;
+	}
+	public int insere(){
+	
+
+public int insereVazio(){
+	public static void main(String args[]) {
+	inserir b = new inserir(0,0,0,0);
+	}
+}
+}
+}
+
+

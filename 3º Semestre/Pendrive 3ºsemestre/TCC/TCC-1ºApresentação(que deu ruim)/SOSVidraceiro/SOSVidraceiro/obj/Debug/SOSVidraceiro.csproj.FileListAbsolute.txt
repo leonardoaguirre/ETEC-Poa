@@ -1,0 +1,97 @@
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.exe.config
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.exe
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.pdb
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.csprojResolveAssemblyReference.cache
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Splash.g.cs
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\App.g.cs
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro_MarkupCompile.cache
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro_MarkupCompile.lref
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Splash.baml
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.g.resources
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.Properties.Resources.resources
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.csproj.GenerateResource.Cache
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.exe
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.pdb
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Clientes.g.cs
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Logar.g.cs
+c:\users\said\documents\visual studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro_Content.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Cadastrar.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\ClienteCadastrar.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\IncluirProduto.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Produtos.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Cadastrar.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\ClienteCadastrar.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Clientes.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\IncluirProduto.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Logar.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Produtos.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.exe.config
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.exe
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.pdb
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.exe
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.pdb
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Cadastrar.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\ClienteCadastrar.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Clientes.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\IncluirProduto.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Logar.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Menu.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Produtos.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Splash.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\App.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro_Content.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro_MarkupCompile.cache
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro_MarkupCompile.lref
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Cadastrar.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\ClienteCadastrar.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Clientes.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\IncluirProduto.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Logar.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Menu.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Produtos.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Splash.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.g.resources
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Agendamento.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Agendamento.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Agendamento.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Menu.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Orcamento.g.cs
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Agendamento.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Menu.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\obj\Debug\Orcamento.baml
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Said\Documents\Visual Studio 2015\Projects\SOSVidraceiro\SOSVidraceiro\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\IncluirOrcamento.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Orcamento.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\IncluirOrcamento.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\Orcamento.baml
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\NovoAgendamento.g.cs
+C:\Users\Leonardo\Desktop\SOSVidraceiro\SOSVidraceiro\obj\Debug\NovoAgendamento.baml
+J:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.exe.config
+J:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.exe
+J:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.pdb
+J:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\obj\Debug\ResolveAssemblyReference.cache
+F:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\bin\Debug\SOSVidraceiro.exe.config
+F:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.exe
+F:\ETEC\3º Semestre\TCC\SOSVidraceiro\SOSVidraceiro\obj\Debug\SOSVidraceiro.pdb

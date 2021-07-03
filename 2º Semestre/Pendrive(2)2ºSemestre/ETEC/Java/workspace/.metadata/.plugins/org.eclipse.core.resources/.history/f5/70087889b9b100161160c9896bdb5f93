@@ -1,0 +1,14 @@
+package exercicio5;
+
+public class Data {
+private int  d, m, a;
+public void main(String args[]){
+	
+}
+public void toString(){
+	
+}
+public void print(){
+	System.out.println(d+"/"+m+"/"+a);
+}
+}

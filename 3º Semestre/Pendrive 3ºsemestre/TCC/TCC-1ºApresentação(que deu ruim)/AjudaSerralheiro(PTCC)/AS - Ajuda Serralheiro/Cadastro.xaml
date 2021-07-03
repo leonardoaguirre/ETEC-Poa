@@ -1,0 +1,62 @@
+﻿<Window x:Class="AS___Ajuda_Serralheiro.Cadastro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AS___Ajuda_Serralheiro"
+        mc:Ignorable="d"
+           Title="Cadastro" Height="700" Width="1050">
+    <Canvas Margin="0,-6,0,0" Grid.Row="1">
+        <Canvas.Background>
+            <ImageBrush ImageSource="blur-wallpaper-HD-Download1.jpg"/>
+        </Canvas.Background>
+        <Rectangle Fill="#FFF4F4F5" Stroke="Black" RadiusY="30.834" RadiusX="30.834" Opacity="0.9" Height="588.109" Canvas.Left="189.334" Canvas.Top="50.126" Width="662.668"/>
+        <Label x:Name="label" Content="Cadastro" Height="44.626" FontSize="30" FontFamily="Sakkal Majalla" Canvas.Left="457.136" Canvas.Top="60.757" Width="111.009" RenderTransformOrigin="-0.004,1.846"/>
+        <Button x:Name="btnCadastrar" Content="Cadastrar" Height="43" RenderTransformOrigin="0.5,0.5" FontFamily="Sakkal Majalla" FontSize="26" Canvas.Left="444.145" Canvas.Top="569.909" Width="124" Click="btnCadastrar_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="lblusuario" Content="Usuário:" Height="27.273" Canvas.Left="313.037" Canvas.Top="111.825" Width="86.364" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblsenha" Content="Senha:" Height="27.273" Canvas.Left="333.492" Canvas.Top="153.867" Width="65.909" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblconfirmasenha" Content="Confirmação de senha:" Height="27.273" Canvas.Left="202.81" Canvas.Top="197.049" Width="196.591" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lbltipopes" Content="Tipo de Pessoa:" Height="27.273" Canvas.Left="257.355" Canvas.Top="229.553" Width="142.046" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblnome" Content="Nome:" Height="27.273" Canvas.Left="345.992" Canvas.Top="264.479" Width="53.409" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblemail" Content="E-mail:" Height="27.273" Canvas.Left="328.262" Canvas.Top="335.68" Width="76.137" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblnasc" Content="Data de Nascimento:" Height="27.273" Canvas.Left="217.582" Canvas.Top="377.725" Width="181.819" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblcontato" Content="Tel. Contato:" Height="27.273" Canvas.Left="272.128" Canvas.Top="419.771" Width="127.273" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblpoldpri" Content="Politica de Privacidade:" Height="27.273" Canvas.Left="217.582" Canvas.Top="530.688" Width="181.819" FontFamily="Source Code Pro"/>
+        <TextBox x:Name="txtusuario" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="116.098" Width="320.175"/>
+        <PasswordBox x:Name="passwordBox" Canvas.Left="411.909" Canvas.Top="158.14" Width="320.175" Height="23"/>
+        <PasswordBox x:Name="passwordBoxconfirm" Canvas.Left="411.909" Canvas.Top="201.322" Width="320.175" Height="23" MouseLeave="passwordBoxconfirm_MouseLeave"/>
+        <TextBox x:Name="txtnome" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="268.752" Width="320.175"/>
+        <TextBox x:Name="txtemail" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="339.953" Width="320.175"/>
+        <TextBox x:Name="txtdatnasc" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="381.998" Width="76.008"/>
+        <TextBox x:Name="txtddd" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="424.044" Width="36.136" KeyUp="txtddd_KeyUp"/>
+        <TextBox x:Name="txtnumtel" Height="23" Canvas.Left="453.045" TextWrapping="Wrap" Canvas.Top="424.044" Width="279.039"/>
+        <CheckBox x:Name="cbpolidpri" Content="Li e concordo com os termos da nossa" Canvas.Left="411.909" Canvas.Top="534.544" Width="221.175"/>
+        <TextBlock x:Name="textBlock2" Canvas.Left="636.084" TextWrapping="Wrap" Canvas.Top="533.544">  
+            <Hyperlink>
+                politica de privacidade.
+            </Hyperlink>
+        </TextBlock>
+        <RadioButton x:Name="rbFisica" Content="Física" Canvas.Left="414.181" Canvas.Top="240.844" GroupName="tipop" IsChecked="True" Click="rbFisica_Click"/>
+        <RadioButton x:Name="rbJuridica" Content="Jurídica" Canvas.Left="585.772" Canvas.Top="240.844" GroupName="tipop" Checked="rbJuridica_Checked"/>
+        <Label x:Name="lblmensagem" Content=" " Canvas.Left="372.862" Canvas.Top="492.248" Width="268.187" Foreground="Red"/>
+        <Label x:Name="lblnomeempresa" Content="Nome da Empresa:" Height="27.273" Canvas.Left="248.037" Canvas.Top="264.397" Width="150.531" FontFamily="Source Code Pro" FontSize="15" Visibility="Hidden"/>
+        <Label x:Name="lblcnpj" Content="CNPJ:" Height="27.273" Canvas.Left="345.992" Canvas.Top="299.775" Width="53.409" FontFamily="Source Code Pro" FontSize="15" Visibility="Hidden"/>
+        <Label x:Name="lblgr" Content="RG:" Height="27.273" Canvas.Left="363.485" Canvas.Top="299.775" Width="53.409" FontFamily="Source Code Pro" FontSize="15"/>
+        <Label x:Name="lblcpf" Content="CPF:" Height="27.273" Canvas.Left="500.414" Canvas.Top="377.725" Width="44.349" FontFamily="Source Code Pro" FontSize="15"/>
+        <TextBox x:Name="txtrg" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="304.048" Width="320.175"/>
+        <TextBox x:Name="txtcnpj" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="304.048" Width="320.175" Visibility="Hidden"/>
+        <TextBox x:Name="txtcpf" Height="23" Canvas.Left="549.763" TextWrapping="Wrap" Canvas.Top="381.998" Width="182.321"/>
+        <Label x:Name="lblrazao" Content="Razão social:" Height="27.273" Canvas.Left="272.128" Canvas.Top="377.725" Width="140.273" FontFamily="Source Code Pro" FontSize="15" Visibility="Hidden"/>
+        <TextBox x:Name="txtrazao" Height="23" Canvas.Left="411.909" TextWrapping="Wrap" Canvas.Top="381.998" Width="320.175" Visibility="Hidden"/>
+        <Image x:Name="SOSVidraceiro_png" Height="58" Canvas.Left="885" Source="SOSVidraceiro.png" Stretch="Fill" Canvas.Top="600.725" Width="138"/>
+    </Canvas>
+</Window>

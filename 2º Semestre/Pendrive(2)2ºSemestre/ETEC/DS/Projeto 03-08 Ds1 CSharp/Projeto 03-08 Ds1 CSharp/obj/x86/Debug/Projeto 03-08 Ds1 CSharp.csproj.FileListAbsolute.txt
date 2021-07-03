@@ -1,0 +1,5 @@
+K:\ETEC\DS\Projeto 03-08 Ds1 CSharp\Projeto 03-08 Ds1 CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ETEC\DS\Projeto 03-08 Ds1 CSharp\Projeto 03-08 Ds1 CSharp\obj\x86\Debug\WindowsFormsApplication1.lblcurso.resources
+K:\ETEC\DS\Projeto 03-08 Ds1 CSharp\Projeto 03-08 Ds1 CSharp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\ETEC\DS\Projeto 03-08 Ds1 CSharp\Projeto 03-08 Ds1 CSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ETEC\DS\Projeto 03-08 Ds1 CSharp\Projeto 03-08 Ds1 CSharp\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+J:\Etec\TCC\Orcamento\Orcamento\bin\Debug\Orcamento.exe
+J:\Etec\TCC\Orcamento\Orcamento\bin\Debug\Orcamento.pdb
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\Orcamento.NovoOrcamento.resources
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\Orcamento.PesquisarOrcamento.resources
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\Orcamento.Properties.Resources.resources
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\Orcamento.exe
+J:\Etec\TCC\Orcamento\Orcamento\obj\x86\Debug\Orcamento.pdb

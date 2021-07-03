@@ -1,0 +1,6 @@
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

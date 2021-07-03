@@ -1,0 +1,15 @@
+package prova2511;
+
+public class Poupanca {
+private int aniversario;
+private int indiceCorrecao;
+
+public void setAniversario(int aniversario1)
+{
+	aniversario=aniversario1;
+}
+public int getAniversario()
+{
+	return aniversario;
+}
+}

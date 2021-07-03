@@ -1,0 +1,10 @@
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\ProjetoCamadas\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb

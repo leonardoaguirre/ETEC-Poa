@@ -1,0 +1,11 @@
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.exe
+C:\Documents and Settings\Aluno\Desktop\Projeto1\Projeto1\obj\x86\Debug\Projeto1.pdb
+J:\ETEC\DS\Projeto1-10-10\Projeto1\obj\x86\Debug\Projeto1.exe
+J:\ETEC\DS\Projeto1-10-10\Projeto1\obj\x86\Debug\Projeto1.pdb

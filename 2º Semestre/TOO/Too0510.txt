@@ -1,0 +1,202 @@
+public class TestePonto2D {
+    public static void main (String args[])
+    {
+        Ponto2D P1 = new Ponto2D();
+        Ponto2D P2 = new Ponto2D();
+        
+        P1.setX(100);
+        P1.setY(60);
+        
+        P2.setX(120);
+        P2.setY(80);
+        
+        Ponto2D maior;
+        maior = P1.achaMaior(P2);
+        maior.print();
+        
+        Ponto2D dobro;
+        dobro = P1.dobroPonto();
+        dobro.print();
+        
+        if ( P1.ComparaCom(P2))
+           System.out.println("São Iguais");
+        
+        else
+           System.out.println("São Diferentes");
+            
+        
+    }
+    
+}
+
+package ponto2d;
+import javax.swing.JOptionPane;
+public class Ponto2D {
+	   private int x;
+	   private int y;
+	   
+	   public void setX(int n_x)
+	   {
+		    x = n_x;
+	   }
+	   public int getX()
+	   {
+		   		return x;
+	   }
+	   public void setY(int n_y)
+	   {
+		    y = n_y;
+	   }
+	   public int getY()
+	   
+	   {
+		   return y;
+	   }
+	   
+	
+	   
+	   public void print()
+	   {
+		   			JOptionPane.showMessageDialog(null, "Ponto("+ x +","+ y +")");
+	   }
+       public float distanciaOrigem(){
+      float d;
+      d= (float)Math.sqrt(x*x + y*y);
+      return d;
+       }
+       public static void main(String args[]){
+        Ponto2D A = new Ponto2D();
+        Ponto2D B = new Ponto2D();
+        
+        A.setX(2);
+        A.setY(3);
+        
+        B.setX(4);
+        B.setY(5);
+        
+        A.print();
+        B.print();
+        
+        System.out.println("Distancia de A:" + A.distanciaOrigem());
+        System.out.println("Distancia de B:" + B.distanciaOrigem());
+        
+        
+       			
+}
+       public void maisDistante(Ponto2D P2){
+    	   if (this.distanciaOrigem() > P2.distanciaOrigem())
+    		   this.print();
+    	   else 
+    		   P2.print();
+       }
+       
+    public Ponto2D achaMaior (Ponto2D P2){
+       
+    float d1 = this.distanciaOrigem();
+   	float d2 = P2.distanciaOrigem();
+   	
+   	if(d1>d2){
+   		return this;
+   	}
+   	else{
+   		return P2;
+       
+   	}  
+    }   
+   		
+   		
+   	   public Ponto2D dobroPonto(){
+   		
+   	   Ponto2D novo = new Ponto2D();
+       novo.setX(this.getX()*2);
+       novo.setY(this.getY()*2);
+       
+       return novo;
+   		}
+       
+       
+       public boolean ComparaCom(Ponto2D P2)
+       {
+       
+       if(this.getX()==P2.getX()&&this.getY()==P2.getY())
+    	   return true;
+       else
+    	   return false;
+       
+       
+      
+        }
+            public Ponto2D somaCom(int num)
+            {
+                Ponto2D resp = new Ponto2D();
+                resp.setX(this.getX() + num);
+                resp.setY(this.getY() + num);
+                return resp;
+            
+            }
+                   public Ponto2D somaCom(Ponto2D P2)
+            {
+                Ponto2D resp = new Ponto2D();
+                resp.setX(this.getX() + P2.getX());
+                resp.setY(this.getY() + P2.getY());
+                return resp;
+            
+            }
+                   public Ponto2D somaCom(int valorx,int valory)
+            {
+                Ponto2D resp = new Ponto2D();
+                resp.setX(this.getX() + valorx);
+                resp.setY(this.getY() + valory);
+                return resp;
+            
+            }
+       
+            
+}
+
+package exercicios;
+
+public class Fracao {
+	private int numerador;
+	int denominador;
+	private double dec;
+
+	public void setnumerador(int novo_numerador) {
+		numerador = novo_numerador;
+	}
+
+	public double getnumerador() {
+		return numerador;
+	}
+
+	public void setdenominador(int novo_denominador) {
+		denominador = novo_denominador;
+	}
+
+	public double getdenominador() {
+		return denominador;
+	}
+
+
+                                
+       public double getdec() {
+           	dec = (numerador / denominador);
+		return dec;
+	}
+               
+
+
+
+	public void print() {
+		System.out.print("Fração: " + numerador + "/" + denominador + " = " + dec);
+	}
+                   public Fracao somaCom(int num)
+            {
+                Fracao resp = new Fracao();
+                resp.set(this.getX() + num);
+                resp.setY(this.getY() + num);
+                return resp;
+            
+            }
+}
+

@@ -1,0 +1,37 @@
+package aula58;
+import javax.swing.*;
+
+public class Exercicio1 
+    {
+
+	public static void main(String[] args) 
+	{
+	Integer resp, A, B, C, respdelta, respdelta2, equa1, equa2;	
+	resp = Integer.parseInt	(JOptionPane.showInputDialog(""
+				+ "MENU PRINCIPAL "
+				+ " | 1 - Equacão do 2º: " 
+				+ " | 2 - Tipo triângulo: "
+				+ " | 3 - Sair: "));
+	
+	if (resp == 1)
+	{
+		A = Integer.parseInt(JOptionPane.showInputDialog("Informe o valor de A :"));
+		B = Integer.parseInt(JOptionPane.showInputDialog("Informe o valor de B :"));
+		C = Integer.parseInt(JOptionPane.showInputDialog("Informe o valor de C :"));
+	respdelta = ((B*B) - (4*A*C));
+	respdelta2 = ((B*B) - (4*A*C));
+	if (respdelta >= 0)
+		respdelta2 = respdelta;
+	equa1 = (int)((-B + (Math.sqrt(respdelta)))/(2*A));
+	equa2 = (int)((-B - (Math.sqrt(respdelta2)))/(2*A));
+    JOptionPane.showMessageDialog(null, "Equação x1 =" + equa1);
+    JOptionPane.showMessageDialog(null, "Equação x2 =" + equa2);
+	}
+	else 
+	{
+		JOptionPane.showMessageDialog(null, "A equação não tem solução real");
+	}
+
+	}
+
+}

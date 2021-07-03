@@ -1,0 +1,14 @@
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\bin\Debug\Aula24-08.exe
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\bin\Debug\Aula24-08.pdb
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24_08.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24_08.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.exe
+C:\Documents and Settings\Aluno\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.pdb
+C:\Users\Leonardo\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.exe
+C:\Users\Leonardo\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.pdb
+C:\Users\Leonardo\Desktop\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.csprojResolveAssemblyReference.cache
+J:\ETEC\DS\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.exe
+J:\ETEC\DS\Calculadora\Aula24-08\Aula24-08\obj\x86\Debug\Aula24-08.pdb

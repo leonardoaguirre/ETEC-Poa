@@ -1,0 +1,9 @@
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\bin\Debug\Relogio.exe.config
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\bin\Debug\Relogio.exe
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\bin\Debug\Relogio.pdb
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\obj\Debug\Relogio.csprojResolveAssemblyReference.cache
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.Cache
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\obj\Debug\Relogio.exe
+c:\users\said\documents\visual studio 2015\Projects\Relogio\Relogio\obj\Debug\Relogio.pdb

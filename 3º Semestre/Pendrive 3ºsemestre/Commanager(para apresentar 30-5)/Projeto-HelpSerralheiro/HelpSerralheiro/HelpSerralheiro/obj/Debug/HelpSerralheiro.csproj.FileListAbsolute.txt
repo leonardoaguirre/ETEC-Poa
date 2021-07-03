@@ -1,0 +1,10 @@
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.csprojResolveAssemblyReference.cache
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.csproj.GenerateResource.Cache
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\jonas\documents\visual studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources

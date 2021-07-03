@@ -1,0 +1,20 @@
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\ProjetoIntegrador.exe
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\ProjetoIntegrador.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrado.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrado.FrmPrincipal.resources
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrado.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.exe
+C:\Documents and Settings\Aluno\Desktop\ProjetoIntegrador\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.pdb
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.exe
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.pdb
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\bin\Debug\ProjetoIntegrador.exe
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\bin\Debug\ProjetoIntegrador.pdb
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.Form1.resources
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.FrmPrincipal.resources
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\ProjetoIntegrador.Properties.Resources.resources
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ETEC\DS\ProjetoIntegrador10-10\ProjetoIntegrador\obj\x86\Debug\GenerateResource.write.1.tlog

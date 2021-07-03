@@ -1,0 +1,445 @@
+﻿<Window x:Class="SOSVidraceiro.IncluirOrcamento"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SOSVidraceiro"
+        mc:Ignorable="d"
+        Title="IncluirOrcamento" Height="509" Width="649" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Storyboard x:Key="Efeito">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="dataGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="dataGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="16.936"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.63"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="248.717"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.645"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="button_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="button_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="108.381"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.245"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-81.619"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.052"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="textBox">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBox">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-202.213"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.571"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="button1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="button1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-202.213"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.571"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-28.909"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.834"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="textBox_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBox_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-171.057"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.435"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="button1_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="button1_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-39.94"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.877"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="246.117"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.651"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="textBox_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBox_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="160.246"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.03"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-68.551"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.003"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="textBox_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBox_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-209.93"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.604"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-19.13"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.788"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="textBox_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.074"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBox_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-91.277"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="dataGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="dataGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="21.777"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.998"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-146.372"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="5.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="button_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="button_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-146.372"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="5.222"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-125.278"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="4.943"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="textBox">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBox">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-125.278"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="4.945"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="button1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="button1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-170.19"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="5.529"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="228.47"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.265"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="textBox_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBox_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="228.47"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.267"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="button1_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="button1_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-170.19"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="5.529"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="228.47"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.265"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="textBox_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBox_Copy1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="186.317"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.819"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="195.566"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.698"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="textBox_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBox_Copy2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="195.566"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.7"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="164.447"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.109"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="textBox_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.12"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.017"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBox_Copy3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="166.642"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.084"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Efeito}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Window.Background>
+        <RadialGradientBrush>
+            <GradientStop Color="#FF007E67" Offset="0"/>
+            <GradientStop Color="#FF038069" Offset="1"/>
+            <GradientStop Color="#FF00FFD1" Offset="0.502"/>
+        </RadialGradientBrush>
+    </Window.Background>
+    <Canvas Margin="-0.43,-1.722,0,0">
+        <DataGrid x:Name="dataGrid" Height="291" Canvas.Left="10" Canvas.Top="115.722" Width="629.43" RenderTransformOrigin="0.5,0.5">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+        </DataGrid>
+        <Button x:Name="button" Content="Incluir Produto" Height="46" Canvas.Left="7.509" Canvas.Top="429.175" Width="134" FontFamily="Arial" FontSize="16" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FF008011" Offset="0"/>
+                    <GradientStop Color="#FF00CF1C" Offset="0.506"/>
+                    <GradientStop Color="#FF019C16" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button_Copy" Content="Excluir Produto" Height="46" Canvas.Left="159.001" Canvas.Top="429.175" Width="134" FontFamily="Arial" FontSize="16" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FF810000" Offset="0"/>
+                    <GradientStop Color="Red" Offset="0.506"/>
+                    <GradientStop Color="#FF9C0101" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="label" Content="Total R$:" Canvas.Left="384.068" Canvas.Top="411.722" FontFamily="Arial" FontSize="20" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox" Height="32.997" Canvas.Left="483.141" TextWrapping="Wrap" Canvas.Top="411.722" Width="156.289" FontFamily="Arial" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="button1" Content="Finalizar Venda" Height="43" Canvas.Left="483.141" Canvas.Top="457.722" Width="156.289" FontFamily="Arial" FontWeight="Bold" FontSize="18" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF003187" Offset="0"/>
+                    <GradientStop Color="#FF002361" Offset="1"/>
+                    <GradientStop Color="#FF005DFF" Offset="0.498"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="label_Copy" Content="Cliente:" Canvas.Left="332.535" Canvas.Top="10" FontFamily="Arial" FontSize="20" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox_Copy" Height="32.997" Canvas.Left="415.875" TextWrapping="Wrap" Canvas.Top="10" Width="223.555" FontFamily="Arial" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="button1_Copy" Content="Cancelar/Voltar" Height="43" Canvas.Left="307.968" Canvas.Top="457.722" Width="156.289" FontFamily="Arial" FontWeight="Bold" FontSize="18" RenderTransformOrigin="0.5,0.5" Click="button1_Copy_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF6C6C6C" Offset="0"/>
+                    <GradientStop Color="#FF555555" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.498"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="label_Copy1" Content="Observações:" Canvas.Left="6.167" Canvas.Top="10" FontFamily="Arial" FontSize="20" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox_Copy1" Height="72.709" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="38.013" Width="320.027" FontFamily="Arial" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label x:Name="label_Copy2" Content="Data de Entrega:" Canvas.Left="332.535" Canvas.Top="47.366" FontFamily="Arial" FontSize="20" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox_Copy2" Height="32.997" Canvas.Left="499.802" TextWrapping="Wrap" Canvas.Top="47.366" Width="139.628" FontFamily="Arial" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label x:Name="label_Copy3" Content="Hora:" Canvas.Left="332.535" Canvas.Top="82.705" FontFamily="Arial" FontSize="20" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox_Copy3" Height="32.997" Canvas.Left="394.762" TextWrapping="Wrap" Canvas.Top="80.213" Width="93.538" FontFamily="Arial" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+    </Canvas>
+</Window>

@@ -1,0 +1,54 @@
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\SOSVidraceiro.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\SOSVidraceiro.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\SOSVidraceiro.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Simple Styles.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Cadastro.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\mainwindow.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Orcamento.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\TelaPrincipal.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\App.g.cs
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro_MarkupCompile.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro_MarkupCompile.lref
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\App.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Cadastro.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\mainwindow.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Orcamento.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\TelaPrincipal.baml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.g.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\sosvidraceiro.Properties.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.csproj.GenerateResource.Cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.csprojResolveAssemblyReference.cache
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\SOSVidraceiro.exe.config
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.exe
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.pdb
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\SOSVidraceiro.exe
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\SOSVidraceiro.pdb
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.csprojResolveAssemblyReference.cache
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Simple Styles.baml
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Cadastro.g.cs
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\mainwindow.g.cs
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Orcamento.g.cs
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\TelaPrincipal.g.cs
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\App.g.cs
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro_MarkupCompile.cache
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro_MarkupCompile.lref
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\App.baml
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Cadastro.baml
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\mainwindow.baml
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\Orcamento.baml
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\TelaPrincipal.baml
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.g.resources
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\sosvidraceiro.Properties.Resources.resources
+F:\3º Semestre\AjudaSerralheiro\AS - Ajuda Serralheiro\obj\Debug\SOSVidraceiro.csproj.GenerateResource.Cache

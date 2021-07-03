@@ -1,0 +1,23 @@
+package prova2511;
+
+public class Conta {
+	private String nome;
+	private int numero;
+	private float saldo;
+	public void setNome(String nome1)
+	{
+		nome=nome1;
+	}
+	public String getNome()
+	{
+		return nome;
+	}
+	public void setNumero(int nome1)
+	{
+		nome=nome1;
+	}
+	public int getNumero()
+	{
+		return nome;
+	}
+}

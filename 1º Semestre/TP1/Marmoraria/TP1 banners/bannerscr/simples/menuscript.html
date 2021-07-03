@@ -1,0 +1,12 @@
+<script language="JavaScript">
+function Banners(){
+	var MNews = new Array(); 
+	MNews[0]= '<a href="http://im1.htm" target=_blank><img src="img1.jpg" width=468 height=60 border=3 alt="Clique Aqui"></a>'
+	MNews[1]= '<a href="http://im1.htm" target=_blank><img src="img2.jpg" width=468 height=60 border=0 alt="Clique Aqui"></a>'
+	MNews[2]= '<a href="http://im1.htm" target=_blank><img src="img3.jpg" width=468 height=60 border=0 alt="Clique Aqui"></a>'
+	MNews[3]= '<a href="http://im1.htm" target=_blank><img src="img4.jpg" width=468 height=60 border=0 alt="Clique Aqui"></a>'
+	var Numero = Math.floor(Math.random()*3);
+	document.write(MNews[Numero]);
+}
+</script>
+<script language="JavaScript">Veja_Banner = Banners();</script>

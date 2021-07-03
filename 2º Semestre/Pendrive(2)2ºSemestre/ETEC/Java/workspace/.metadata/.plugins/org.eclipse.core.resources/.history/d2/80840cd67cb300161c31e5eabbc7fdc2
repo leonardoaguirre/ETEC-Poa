@@ -1,0 +1,33 @@
+package prova2511;
+
+public class Poupanca extends Conta{
+private int aniversario;
+private int indiceCorrecao;
+
+public void setAniversario(int aniversario1)
+{
+	aniversario=aniversario1;
+}
+public int getAniversario()
+{
+	return aniversario;
+}
+public void setIndiceCorrecao(int indiceCorrecao1)
+{
+	indiceCorrecao=indiceCorrecao1;
+}
+public int getIndiceCorrecao()
+{
+	return indiceCorrecao;
+}
+public Poupanca(int ani, int ind){
+	aniversario = ani;
+	indiceCorrecao=ind;
+}
+public void main(String args[]){
+	Poupanca A = Poupanca();
+	A.setIndiceCorrecao(1);
+	A.setAniversario(4);
+}
+
+}

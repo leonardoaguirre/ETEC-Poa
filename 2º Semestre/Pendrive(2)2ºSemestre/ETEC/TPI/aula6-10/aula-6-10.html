@@ -1,0 +1,42 @@
+<?php
+$msg=0;
+@$msg=$REQUEST['mensagem'];
+?>
+<html>
+<head>
+<title>Aula 6-10</title>
+ <meta charset = "UTF-8"/>
+ <link rel="stylesheet" href="aula-6-10.css" type="text/css" media="screen">
+</head>
+<body>
+<body bgcolor="#00ccff">
+<div id="container">
+<div id="mainnav">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Portifolio</a></li>
+<li><a href="#">Contato</a></li>
+<li><a href="#">Histórico</a></li>
+</ul>
+</div>
+<form method="post" action="aula-6-10.php">
+Nome: <input type="text" name="nome"/><br/>
+Ano de Nascimento <input type="number" placeholder="4 Digitos" name="ano"/><br/>
+<fieldset><legend>Sexo:</legend>
+ <input type="radio" name="sexo" id="Masculino" value="1"/>
+<label for="Masculino">Masculino</label></br>
+<input type="radio" name="sexo" id="Feminino" value="2"/>
+<label for="Feminino">Feminino</label>
+</fieldset>
+Deixe sua mensagem:</br> 
+<textarea name="mensagem" rows="10" cols="40"/>
+</textarea><br>
+<input type="submit" value="Enviar"/>
+<input type="reset" value="Limpar"/>
+</form>
+<div id="rodape">
+Copyright ₢ ETEC Poá 2016
+</div>
+</div>
+</body>
+</html>

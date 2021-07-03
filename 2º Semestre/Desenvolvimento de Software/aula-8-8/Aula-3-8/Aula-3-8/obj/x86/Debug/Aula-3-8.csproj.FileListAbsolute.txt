@@ -1,0 +1,21 @@
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\bin\Debug\Aula-3-8.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\bin\Debug\Aula-3-8.pdb
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\Aula_3_8.Form1.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\Aula_3_8.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\Aula-3-8.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\Aula-3-8\obj\x86\Debug\Aula-3-8.pdb
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula-3-8.exe
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula-3-8.pdb
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\bin\Debug\Aula-3-8.exe
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\bin\Debug\Aula-3-8.pdb
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula_3_8.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula_3_8.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\aula-3-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula_3_8.FrmDecisao.resources
+C:\Documents and Settings\Aluno\Desktop\aula-8-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula-3-8.exe
+C:\Documents and Settings\Aluno\Desktop\aula-8-8\Aula-3-8\Aula-3-8\obj\x86\Debug\Aula-3-8.pdb

@@ -1,0 +1,24 @@
+package prova2511;
+
+public class Poupanca extends Conta{
+private int aniversario;
+private int indiceCorrecao;
+
+public void setAniversario(int aniversario1)
+{
+	aniversario=aniversario1;
+}
+public int getAniversario()
+{
+	return aniversario;
+}
+public void setIndiceCorrecao(int indiceCorrecao1)
+{
+	indiceCorrecao=indiceCorrecao1;
+}
+public int getAniversario()
+{
+	return indiceCorrecao;
+}
+
+}

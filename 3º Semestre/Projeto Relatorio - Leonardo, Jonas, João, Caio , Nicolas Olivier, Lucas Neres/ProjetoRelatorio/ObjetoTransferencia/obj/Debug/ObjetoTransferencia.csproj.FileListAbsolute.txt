@@ -1,0 +1,5 @@
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Leonardo\Desktop\Projeto Relatorio - Leonardo, Jonas, João, Caio , Nicolas Olivier, Lucas Neres\ProjetoRelatorio\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb

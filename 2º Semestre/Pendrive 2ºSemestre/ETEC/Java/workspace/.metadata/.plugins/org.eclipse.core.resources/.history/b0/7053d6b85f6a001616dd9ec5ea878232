@@ -1,0 +1,13 @@
+package aula1008;
+import javax.swing.*;
+public class Exercicio01 
+{
+
+	public static void main(String[] args) 
+	{
+       JOptionPane.showInputDialog();
+	
+
+	}
+
+}

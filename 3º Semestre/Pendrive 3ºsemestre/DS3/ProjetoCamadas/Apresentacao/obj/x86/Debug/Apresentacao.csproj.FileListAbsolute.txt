@@ -1,0 +1,69 @@
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.FrmClienteConsulta.resources
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.exe
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.frmClienteCadastro.resources
+F:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.exe
+F:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.exe
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.frmClienteCadastro.resources
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.FrmClienteConsulta.resources
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.csproj.GenerateResource.Cache
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.exe
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.frmClienteCadastro.resources
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.FrmClienteConsulta.resources
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.exe
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.frmClienteCadastro.resources
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.FrmClienteConsulta.resources
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\obj\x86\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Said\Desktop\ProjetoCamadas\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+F:\ETEC\3º Semestre\DS3\ProjetoCamadas\Apresentacao\bin\Debug\Apresentacao.exe.config

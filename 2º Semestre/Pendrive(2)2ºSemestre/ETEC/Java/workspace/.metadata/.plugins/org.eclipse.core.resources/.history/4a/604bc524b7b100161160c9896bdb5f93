@@ -1,0 +1,23 @@
+package exercicio4;
+
+public class Complexo {
+private int A, B;
+private String I ="i";
+public void setA(int a) {
+	A = a;
+}
+
+public int getA() {
+	return A;
+}
+public void setB(int b) {
+	B = b;
+}
+
+public int getB() {
+	return B;
+}
+public void main(String args[]){
+	
+}
+}

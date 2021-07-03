@@ -1,0 +1,13 @@
+package prova2511;
+
+public class ContaCorrente {
+private int limiteCredito;
+public void setCredito(int credito1)
+{
+	limiteCredito=credito1;
+}
+public int getCredito()
+{
+	return limiteCredito;
+}
+}

@@ -1,0 +1,15 @@
+package exercicio1;
+
+public class Inserir {
+	public Inserir(int A, int B, int C, int X) {
+		
+			Inserir a = new Inserir(1,2,3,4);
+			
+	}
+	public void InserirVazio(int A, int B, int C, int X) {
+		
+		Inserir b = new Inserir(0,0,0,0);
+		
+}
+	public 
+}

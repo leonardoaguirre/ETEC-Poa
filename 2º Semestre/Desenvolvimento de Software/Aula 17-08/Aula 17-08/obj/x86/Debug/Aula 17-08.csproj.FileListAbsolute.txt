@@ -1,0 +1,10 @@
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\bin\Debug\Aula 17-08.exe
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\bin\Debug\Aula 17-08.pdb
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\Aula_17_08.Form1.resources
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\Aula_17_08.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\Aula 17-08.exe
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\Aula 17-08.pdb
+C:\Documents and Settings\Aluno\Desktop\Aula 17-08\Aula 17-08\obj\x86\Debug\Aula_17_08.Form2.resources

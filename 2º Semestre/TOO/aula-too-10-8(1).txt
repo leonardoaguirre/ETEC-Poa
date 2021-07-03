@@ -1,0 +1,14 @@
+Crie classes para abstrair os seguintes itens : 
+
+a)Aparelhos de TV
+b)Celulares
+c)Familias
+d)Pássaros
+
+a - tamanho da tela, resolução, entradas, suporte.
+
+b - hardware, tamanho da tela, memoria RAM, memoria interna, SO, camera.
+
+c - pais, irmãos, tios(as), primos(as), avós.
+
+d - asas, patas, garras, olhos, bico, penas.

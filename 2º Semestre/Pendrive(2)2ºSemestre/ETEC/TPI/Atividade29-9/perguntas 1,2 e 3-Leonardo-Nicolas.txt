@@ -1,0 +1,25 @@
+1- O que é Repetição com teste lógico no início? Dê 1 exemplo.
+
+R: É uma estrutura de repetição que tem o teste lógico logo no inicio do algoritmo
+Ex: while ( $num != 100 ){
+
+ $num = $num + 1;
+
+}
+
+2- O que é Repetição com teste lógico no final? Dê 1 exemplo.
+
+R:É uma estrutura de repetição que tem o seu teste lógico no final do algoritmo
+Ex: do{ 
+
+$num = $num + 1;
+
+}while ($num != 100);
+
+3- O que é Repetição com variável de controle? Dê 1 exemplo.
+R: É uma estrutura de repetição que se tem o numero definido de repetições a se executar
+Ex: for ($i = 0; $i < 100; $i++){
+
+$num = $num + 1;
+
+}

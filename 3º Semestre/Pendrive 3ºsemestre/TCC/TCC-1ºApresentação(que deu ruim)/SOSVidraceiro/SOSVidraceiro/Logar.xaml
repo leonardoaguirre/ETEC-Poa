@@ -1,0 +1,94 @@
+﻿<Window x:Class="SOSVidraceiro.Logar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SOSVidraceiro"
+        mc:Ignorable="d"
+        Title="Logar" Height="603.909" Width="808.436" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Storyboard x:Key="Efeito">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="Imagens_SOSVidraceiro_png">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="label">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="label1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="label1_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBox">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBox_Copy">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="btEntrar">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="label2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="textBlock">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.01"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Efeito}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Window.Background>
+        <RadialGradientBrush>
+            <GradientStop Color="#FF004972" Offset="0"/>
+            <GradientStop Color="#FF50C2FF" Offset="1"/>
+            <GradientStop Color="#FF0084CB" Offset="0.473"/>
+        </RadialGradientBrush>
+    </Window.Background>
+    <Canvas Margin="-4,-4.395,-4,-4">
+        <Image x:Name="Imagens_SOSVidraceiro_png" Height="175.72" Canvas.Left="221.811" Source="Imagens/SOSVidraceiro.png" Stretch="Fill" Canvas.Top="10" Width="347.119"/>
+        <Rectangle x:Name="rectangle" Height="355.844" Canvas.Left="136.831" Stroke="Black" Canvas.Top="185.72" Width="530.041" Opacity="0.9" RadiusX="30" RadiusY="30">
+            <Rectangle.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFB4B4B4" Offset="0"/>
+                    <GradientStop Color="#FFE0E0E0" Offset="1"/>
+                    <GradientStop Color="#FFC9C9C9" Offset="0.49"/>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="label" Content="Entrar" Height="38.889" Canvas.Left="344.239" Canvas.Top="190.72" Width="115.227" FontFamily="Arial" FontSize="30" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Usuário:" Height="27.366" Canvas.Left="265.02" Canvas.Top="252.058" Width="79.218" FontFamily="Arial" FontSize="18"/>
+        <Label x:Name="label1_Copy" Content="Senha:" Height="27.366" Canvas.Left="265.02" Canvas.Top="329.835" Width="64.815" FontFamily="Arial" FontSize="18"/>
+        <TextBox x:Name="textBox" Height="28.127" Canvas.Left="265.02" TextWrapping="Wrap" Canvas.Top="279.424" Width="265.021" FontFamily="Arial" FontSize="18"/>
+        <TextBox x:Name="textBox_Copy" Height="28.127" Canvas.Left="265.02" TextWrapping="Wrap" Canvas.Top="357.201" Width="265.021" FontFamily="Arial" FontSize="18"/>
+        <Button x:Name="btEntrar" Content="Entrar" Height="49" Canvas.Left="316" Canvas.Top="435" Width="157" FontFamily="Arial" FontSize="22" BorderThickness="1" Margin="0" Click="btEntrar_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FF9E9E9E" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFBFBFBF" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="label2" Content="Não possui cadastro?..." Height="23.046" Canvas.Left="265.02" Canvas.Top="390.328" Width="162.758" FontFamily="Arial" FontSize="14"/>
+        <TextBlock x:Name="textBlock" Height="23.046" Canvas.Left="432.778" TextWrapping="Wrap" Text="Cadastre-se!" Canvas.Top="395.328" Width="97.263" FontFamily="Arial" FontSize="14"/>
+    </Canvas>
+</Window>

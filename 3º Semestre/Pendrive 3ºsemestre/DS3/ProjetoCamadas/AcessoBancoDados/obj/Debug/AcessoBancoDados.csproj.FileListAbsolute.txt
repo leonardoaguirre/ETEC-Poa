@@ -1,0 +1,29 @@
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2010\Projects\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2010\Projects\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2010\Projects\ProjetoCamadas\AcessoBancoDados\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2010\Projects\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2010\Projects\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\AcessoBancoDados\obj\Debug\ResolveAssemblyReference.cache
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+J:\ETEC\3º Semestre\DS3\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Leonardo\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Leonardo\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Leonardo\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Documents and Settings\Aluno\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Said\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Said\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Said\Desktop\ProjetoCamadas\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Said\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Said\Desktop\ProjetoCamadas\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

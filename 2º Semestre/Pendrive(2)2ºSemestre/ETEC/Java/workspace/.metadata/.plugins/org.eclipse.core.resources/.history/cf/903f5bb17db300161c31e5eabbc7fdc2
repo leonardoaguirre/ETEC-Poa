@@ -1,0 +1,22 @@
+package exercicioherança;
+
+public class MembroUniversidade {
+	private String nome;
+	private String nascimento;
+	public void setNome(String no)
+	{
+		nome=no;
+	}
+	public String getNome()
+	{
+		return nome;
+	}
+	public void setNascimento(String na)
+	{
+		nascimento=na;
+	}
+	public String getNascimento()
+	{
+		return nascimento;
+	}
+}

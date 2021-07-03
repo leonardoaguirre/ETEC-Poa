@@ -1,0 +1,1030 @@
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+F:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Users\jonas\Documents\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+J:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+J:\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+F:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+G:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+K:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+K:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+J:\TCC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+F:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+J:\ETEC\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+G:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+F:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+J:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+K:\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\jonas\Documents\TCC\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+J:\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\EnvDTE.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\stdole.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\EnvDTE.xml
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jonas\Documents\Commanager(para apresentar 30-5)\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Relatorios.RelatorioVendas.resources
+C:\Users\Leonardo\Desktop\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\Leonardo\Desktop\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\Leonardo\Desktop\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe.config
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.exe
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.pdb
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.exe
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\HelpSerralheiro.pdb
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\MySql.Data.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarAgendamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarCliente.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesa.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarDespesaFuncionario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFornecedor.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarFuncionario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarOrcamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProduto.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoOrcamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarProdutoVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarUsuario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.AlterarVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.FrmCadastro.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaAgendamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaClientesVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaDespesas.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasFuncionario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasGeral.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFinancasVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFornecedor.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaFuncionario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutos.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosOrcamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaProdutosVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarClientes.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarOrcamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultarUsuario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.ConsultaVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.EsqueceSenha.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Menu.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovaVenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoAgendamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoCliente.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesa.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoDespesaFuncionario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFornecedor.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoFuncionario.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoOrcamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.NovoProduto.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Relatorios.RelatorioVendas.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubAgenda.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubCadastro.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubClientes.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFinancas.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubFornecedores.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubOrcamento.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubProdutos.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.SubVendas.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.TelaSplash.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Login.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\HelpSerralheiro.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\commanager 27-6\Projeto-HelpSerralheiro\HelpSerralheiro\HelpSerralheiro\obj\Debug\GUI.csproj.GenerateResource.Cache

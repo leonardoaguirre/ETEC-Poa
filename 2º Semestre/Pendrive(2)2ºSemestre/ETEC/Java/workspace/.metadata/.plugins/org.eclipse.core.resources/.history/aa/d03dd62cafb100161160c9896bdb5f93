@@ -1,0 +1,51 @@
+package exercicio2;
+
+public class Computador {
+	private float clock, HD;
+	private String processador;
+	
+	public void setClock(float clock1)
+	{
+		clock=clock1;
+	}
+	public float getClock()
+	{
+		return clock;
+	}
+	public void setHD(float HD1)
+	{
+		HD=HD1;
+	}
+	public float getHD()
+	{
+		return HD;
+	}
+	public void setProcessador(String processador1)
+	{
+		processador=processador1;
+	}
+	public String getProcessador()
+	{
+		return processador;
+	}
+
+public void main(String args[]){
+	Computador a = new Computador();
+	a.setClock(0);
+	a.setHD(0);
+	a.setProcessador("");
+
+	Computador b = new Computador();
+	b.setClock(2);
+	b.setHD(500);
+	b.setProcessador("Intel i7");
+	
+	a.print();
+	b.print();
+}
+public void print(){
+	System.out.println("Clock: "+clock+" HD: "+HD+" Processador: "+processador);
+	
+}
+}
+
